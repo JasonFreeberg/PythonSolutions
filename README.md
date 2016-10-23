@@ -5,4 +5,4 @@
 
 Solutions for the exercises in PythonTutorials repo.
 
-I'll add the solutions a couples days after the corresponding tutorials.
+I'll add the solutions a couple days after the corresponding tutorials.
